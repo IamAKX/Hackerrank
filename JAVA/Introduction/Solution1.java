@@ -1,0 +1,15 @@
+/*
+ *  Problem name : Welcome to Java!
+ */
+package Introduction;
+
+/**
+ *
+ * @author akash
+ */
+public class Solution1 {
+    public static void main(String[] args) {
+        System.out.println("Hello, World.");
+        System.out.print("Hello, Java.");
+    }
+}
